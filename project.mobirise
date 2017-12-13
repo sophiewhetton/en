@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "My Site EN",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 42,
@@ -34,12 +34,13 @@
     },
     "favicon": "",
     "noImageResize": "true",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-111196459-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-111196459-1');\r\n</script>",
     "cookiesAlert": "",
-    "siteUrl": "",
+    "siteUrl": "https://sophiewhetton.github.io/en/",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "sitemapSwitcherAuto": "on"
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
