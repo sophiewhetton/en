@@ -1,26 +1,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://sophiewhetton.github.xn--io/testcopy-/page1.html</loc>
+		<loc>https://sophiewhetton.github.xn--io/en-/page1.html</loc>
 	</url>
 	<url>
-		<loc>https://sophiewhetton.github.xn--io/testcopy-/page2.html</loc>
+		<loc>https://sophiewhetton.github.xn--io/en-/page2.html</loc>
 	</url>
 	<url>
-		<loc>https://sophiewhetton.github.xn--io/testcopy-/page3.html</loc>
+		<loc>https://sophiewhetton.github.xn--io/en-/page3.html</loc>
 	</url>
 	<url>
-		<loc>https://sophiewhetton.github.xn--io/testcopy-/page4.html</loc>
+		<loc>https://sophiewhetton.github.xn--io/en-/page4.html</loc>
 	</url>
 	<url>
-		<loc>https://sophiewhetton.github.xn--io/testcopy-/index.html</loc>
+		<loc>https://sophiewhetton.github.xn--io/en-/page5.html</loc>
 	</url>
 	<url>
-		<loc>https://sophiewhetton.github.xn--io/testcopy-/page7.html</loc>
+		<loc>https://sophiewhetton.github.xn--io/en-/page6.html</loc>
 	</url>
 	<url>
-		<loc>https://sophiewhetton.github.xn--io/testcopy-/page8.html</loc>
+		<loc>https://sophiewhetton.github.xn--io/en-/index.html</loc>
 	</url>
 	<url>
-		<loc>https://sophiewhetton.github.xn--io/testcopy-/page9.html</loc>
+		<loc>https://sophiewhetton.github.xn--io/en-/page7.html</loc>
+	</url>
+	<url>
+		<loc>https://sophiewhetton.github.xn--io/en-/page8.html</loc>
+	</url>
+	<url>
+		<loc>https://sophiewhetton.github.xn--io/en-/page9.html</loc>
+	</url>
+	<url>
+		<loc>https://sophiewhetton.github.xn--io/en-/page10.html</loc>
 	</url>
 </urlset>
